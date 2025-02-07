@@ -401,8 +401,9 @@ function in_view(){
         '#asr_help { position: absolute; top: 12px; left: -35px; '+
         'font: bold 16px/21px Meiryo; height: 17px; padding: 1px 2px 2px 3px; '+
         'color: #fff; border-radius: 30px; background: #666; cursor: pointer; }'+
-        '#back_blog { border: 1px solid #fff; border-radius: 6px; padding: 4px; margin-left: 20px; '+
-        'font-size: 24px; color: #fff; background: #2196f3; cursor: pointer; }'+
+        '#back_blog { font-size: 32px; line-height: 26px; height: 26px; padding: 4px; '+
+        'margin-left: 20px; cursor: pointer; border: 1px solid #fff; border-radius: 6px; '+
+        'color: #fff; background: #2196f3; }'+
         '#sw_tooltip { position: relative; left: -165px; white-space: nowrap; '+
         'font-size: 14px; padding: 4px 10px 0; border: 1px solid #ccc; background: #fff; '+
         'box-shadow: 4px 4px 6px 0 rgba(0, 0, 0, 0.5); display: none; }'+
