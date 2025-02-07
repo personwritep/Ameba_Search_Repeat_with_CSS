@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Ameba Search Repeat / with CSS　🔲
+// @name        Ameba Search Repeat / with CSS
 // @namespace        http://tampermonkey.net/
 // @version        2.8
 // @description        ブログ内検索の再検索を実行可能にする
