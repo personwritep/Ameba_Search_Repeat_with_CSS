@@ -5,6 +5,7 @@
 // @description        ブログ内検索の再検索を実行可能にする
 // @author        Ameba Blog User
 // @match        https://search.ameba.jp/search/entry/*.html?aid=*
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=ameblo.jp
 // @run-at        document-start
 // @grant        none
 // @updateURL        https://github.com/personwritep/Ameba_Search_Repeat_with_CSS/raw/main/Ameba_Search_Repeat_with_CSS.user.js
